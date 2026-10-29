@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434096865988",
+    "project_id": "bmd-finals-project",
+    "storage_bucket": "bmd-finals-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434096865988:android:cdd8c76052482d627eff91",
+        "android_client_info": {
+          "package_name": "com.example.my"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGe_xdn4QzJ0oulp479eKo9O1_eb2TdJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
